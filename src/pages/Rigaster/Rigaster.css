@@ -1,0 +1,46 @@
+#main-div {
+    /* display: flex; */
+    flex-direction: column;
+    /* justify-content: center; */
+    align-items: center;
+    margin-top: -77px;
+}
+#logo2 {
+    width: 390px;
+    height: 300px;
+    margin-top: -30px;
+
+}
+/* .title {
+    font-weight: 600;
+} */
+.inputs{
+    width: 100%;
+    height: 45px;
+    border: 1px solid black;
+    margin-top: 15px;
+}
+.linputs{
+    font-size: x-large;
+    padding: 10px;
+    
+}
+#divo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 0%;
+    /* border: solid red 2px; */
+}
+#blackHeader{
+    background-color: black;
+    width: 100%;
+    height: 70px;
+}
+body{
+background-color: white;
+}
+.ainputs{
+    color: rgb(252, 248, 248);
+}
